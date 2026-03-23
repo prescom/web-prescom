@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+Disallow: /dokumenty/
+Disallow: /images/
+Sitemap: https://www.pres-com.cz/sitemap.xml
